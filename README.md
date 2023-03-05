@@ -1,2 +1,4 @@
 # Screen-color-information-
-Getting screen color information 
+ 
+var pixelDepth = window.screen.pixelDepth,
+ colorDepth = window.screen.colorDepth;
